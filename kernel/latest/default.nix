@@ -17,7 +17,7 @@ let
     splitString
     optionalString
   ;
-  version = "5.7";
+  version = "5.8";
   additionalConfig = {
     name = "pinebookpro-config-fixes";
     patch = null;
